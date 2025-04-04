@@ -15,7 +15,7 @@ A collection of common design patterns implemented in Unity using C#. This repos
 - **Strategy** – Enables selecting an algorithm at runtime.
 - **Visitor** – Separates algorithms from the objects they operate on.
 
-- ### Additional Patterns
+### Additional Patterns
 - **Event Bus** – Implements a centralized message-passing system that allows decoupling of components in an event-driven architecture.
 
 ## How to Use
