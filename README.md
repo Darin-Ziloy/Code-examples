@@ -30,6 +30,3 @@ A collection of common design patterns implemented in Unity using C#. This repos
 ## Requirements
 - Unity 2022+ (or newer)
 - C# 8.0+
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
